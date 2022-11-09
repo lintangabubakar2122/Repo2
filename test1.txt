@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is B25E-078C
-
- Directory of C:\Users\user\OneDrive - Andal Software\Desktop\MyProject
-
-11/09/2022  02:16 PM    <DIR>          .
-11/09/2022  02:16 PM    <DIR>          ..
-11/09/2022  02:16 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  64,140,066,816 bytes free
+change 1
